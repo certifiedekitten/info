@@ -86,7 +86,7 @@
    "playerscalesmenu":   { "enabled": true,  "label": "Player Sizes" },
    "pline":              { "enabled": true,  "label": "Show Player Lines" },
    "ragdoll":            { "enabled": true,  "label": "Ragdoll" },
-   "silentvis":          { "enabled": false,  "label": "Visibility Check" },
+   "silentvis":          { "enabled": true,  "label": "Visibility Check" },
    "slaim":              { "enabled": true,  "label": "Activate Silent Aimbot" },
    "speed_hack":         { "enabled": true,  "label": "Speed Changer" },
    "svaston":            { "enabled": true,  "label": "Enable Custom Crosshair" },
