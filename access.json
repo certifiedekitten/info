@@ -8,7 +8,7 @@
     "desc": "StandKnife 2.8F3 | t.me/ekittened",
     "wm_title": "KazakhDLC 2.2 | ",
     "wm_desc": "t.me/ekittened | ",
-    "wm_time": false,
+    "wm_time": true,
     "wm_on": true,
     "abort" : false
    },
