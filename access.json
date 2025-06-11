@@ -1,5 +1,4 @@
-{
- "versions": [
+[
    {
     "version": "2",
     "open": true,
@@ -94,4 +93,4 @@
    "underground":        { "enabled": true,  "label": "Teleport Underground" }
    }
   }
-}
+
