@@ -7,7 +7,7 @@
     "desc": "cba",
     "wm_title": "abc 2.2 | ",
     "wm_desc": "@abc | ",
-    "wm_time": true,
+    "wm_time": false,
     "wm_on": true,
     "abort" : false
   },
