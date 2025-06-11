@@ -9,7 +9,7 @@
     "wm_desc": "@abc | ",
     "wm_time": false,
     "wm_on": false,
-    "abort" : false
+    "abort" : true
   },
   {
     "veron": "1",
