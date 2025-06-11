@@ -1,13 +1,13 @@
 [
   {
-    "version": "2",
+    "veron": "2",
     "open": true,
     "reason": "",
     "name": "abc",
     "desc": "cba"
   },
   {
-    "version": "1",
+    "veron": "1",
     "open": true,
     "reason": "",
     "name": "KazakhDLC 2.2 (1)",
