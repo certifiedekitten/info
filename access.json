@@ -21,7 +21,7 @@
    }
   ],
   "functions": {
-   "2:": {
+   "2": {
    "AliveCheck":         { "enabled": true,  "label": "Alive Check" },
    "Ammo":               { "enabled": true,  "label": "Unlimited Ammo" },
    "BulletNuke":         { "enabled": false, "label": "Bullet Nuke" },
