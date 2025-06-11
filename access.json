@@ -1,10 +1,15 @@
 [
   {
-    "veron": "2",
+    "version": "2",
     "open": true,
     "reason": "",
     "name": "abc",
-    "desc": "cba"
+    "desc": "cba",
+    "wm_title": "abc 2.2 | ",
+    "wm_desc": "@abc",
+    "wm_time": true,
+    "wm_on": true,
+    "abort" : false
   },
   {
     "veron": "1",
