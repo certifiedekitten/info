@@ -186,7 +186,7 @@
    "pline":              { "enabled": false,  "label": "Show Player Lines" },
    "ragdoll":            { "enabled": false,  "label": "Ragdoll" },
    "silentvis":          { "enabled": false,  "label": "Visibility Check" },
-   "slaim":              { "enabled": false,  "label": "Activate Sperma" },
+   "slaim":              { "enabled": true,  "label": "test button 57423890" },
    "speed_hack":         { "enabled": false,  "label": "Speed Changer" },
    "svaston":            { "enabled": false,  "label": "Enable Custom Crosshair" },
    "telekill":           { "enabled": false,  "label": "TeleKill" },
