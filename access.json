@@ -19,12 +19,12 @@
     "version": "2",
     "open": true,
     "reason": "",
-    "name": "KazakhDLC 2.0 BETA",
-    "desc": "Developed by KazakhDLC.t.me",
+    "name": "KazakhDLC ",
+    "desc": "@KazakhDLC | v5.0F3",
     "wm_title": "KazakhDLC | ",
-    "wm_desc": "@KazakhDLC | 2.0 BETA",
+    "wm_desc": "@KazakhDLC | 1.0 | 03.02.2024",
     "wm_time": true,
-    "wm_on": false,
+    "wm_on": true,
     "abort": false
    }
   ],
