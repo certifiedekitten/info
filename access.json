@@ -2,8 +2,8 @@
  "versions": [
    {
     "version": "3",
-    "open": true,
-    "reason": "",
+    "open": false,
+    "reason": "приветики",
     "name": "KazakhDLC 2.2",
     "desc": "StandKnife 2.8F3 | t.me/ekittened",
     "wm_title": "KazakhDLC 2.2 | ",
