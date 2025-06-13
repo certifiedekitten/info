@@ -17,8 +17,8 @@
    },
    {
     "version": "2",
-    "open": true,
-    "reason": "",
+    "open": false,
+    "reason": "Invalid version",
     "name": "KazakhDLC m3",
     "desc": "v76 arm64-v8a 08.06.2025 sk 2.8f3",
     "wm_title": "KazakhDLC m3 | ",
