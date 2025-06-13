@@ -37,7 +37,7 @@
   ],
   "functions": {
    "3": {
-   "slaim_header":       { "enabled": false,  "label": "Silent Pidorbot C" },
+   "slaim_header":       { "enabled": true,  "label": "Silent Pidorbot C" },
    "AliveCheck":         { "enabled": true,  "label": "Alive Check" },
    "Ammo":               { "enabled": true,  "label": "Unlimited Ammo" },
    "BulletNuke":         { "enabled": false, "label": "Bullet Nuke" },
