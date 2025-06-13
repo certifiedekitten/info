@@ -108,7 +108,7 @@
    "telekill":           { "enabled": true,  "label": "TeleKill" },
    "underground":        { "enabled": true,  "label": "Teleport Underground" },
    "playeresp":          { "enabled": true,  "label": "Activate ESP" }
-    }.
+   },
    "2": {
    "AliveCheck":         { "enabled": true,  "label": "Alive Check" },
    "Ammo":               { "enabled": true,  "label": "Unlimited Ammo" },
