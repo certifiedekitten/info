@@ -16,7 +16,7 @@
     "cfg_patch": "/storage/emulated/0/Android/data/antmobi.parallelspace.dualspace.clonewhatsapp.appcloner/cache/"
    },
    {
-    "version": "2",
+    "version": "2\",
     "open": true,
     "reason": "",
     "name": "KazakhDLC 2.2 (2)",
@@ -27,13 +27,6 @@
     "wm_on": true,
     "abort": false
    },
-   {
-    "version": "1",
-    "open": true,
-    "reason": "",
-    "name": "KazakhDLC 2.2 (1)",
-    "desc": "StandKnife 2.8F3 | t.me/ekittened"
-   }
   ],
   "functions": {
    "3": {
