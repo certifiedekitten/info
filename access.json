@@ -190,7 +190,7 @@
    "speed_hack":         { "enabled": true,  "label": "Speed Changer" },
    "svaston":            { "enabled": true,  "label": "Enable Custom Crosshair" },
    "telekill":           { "enabled": true,  "label": "TeleKill" },
-   "underground":        { "enabled": true,  "label": "Teleport Underground" },
+   "underground":        { "enabled": true,  "label": "Teleport Underground" }
    }
   }
 }
