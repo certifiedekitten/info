@@ -43,7 +43,7 @@
    "effects_header":     { "enabled": true,  "label": "Player Effects" },
    "config_header":      { "enabled": true,  "label": "Config System" },
    "playeresp":          { "enabled": true,  "label": "Activate ESP" },
-   "skinchanger":        { "enabled": true,  "label": "SkinChanger" },
+   "skinchanger_header": { "enabled": true,  "label": "SkinChanger" },
    "knifechanger":       { "enabled": true,  "label": "KnifeChanger" },
    "weaponchanger":      { "enabled": true,  "label": "WeaponChanger" },
    "text1":              { "enabled": false,  "label": "" },
