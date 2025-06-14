@@ -2,8 +2,8 @@
  "versions": [
    {
     "version": "2-fix",
-    "open": false,
-    "reason": "Адаптируем софт под Parallel Space. Включится через примерно 1 минуту",
+    "open": true,
+    "reason": "",
     "name": "KazakhDLC 2.2 (2-f)",
     "desc": "StandKnife 2.8F3 | t.me/ekittened",
     "wm_title": "KazakhDLC 2.2 | ",
@@ -11,11 +11,12 @@
     "wm_time": true,
     "wm_on": true,
     "abort": false
+    "parallel_space": true
    },
    {
     "version": "2",
-    "open": true,
-    "reason": "",
+    "open": false,
+    "reason": "Адаптируем софт под Parallel Space",
     "name": "KazakhDLC 2.2 (2)",
     "desc": "StandKnife 2.8F3 | ekittened.t.me",
     "wm_title": "KazakhDLC 2.2 | ",
