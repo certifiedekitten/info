@@ -55,7 +55,7 @@
    "etext2":             { "enabled": true,  "label": "а пока что го общение в нашем чате @kazakhdlcnew" },
    "etext3":             { "enabled": true,  "label": "БЛЯЯЯ ПАЦАНЫ ВЫ ШО ВЫХОДИТЕ ИЗ СОФТА ЩАС СЕРВАК ЛОПНЕЕЕТ" },
    "etext4":             { "enabled": true,  "label": "ВЫ АХУЕЛИ ЛОМАТЬ ВСЕ Я НЕ ХОЧУ ЧТОБ ВСЕ ПО ПИЗДЕ ПОШЛО АЛООООООО" },
-   "etext5":             { "enabled": false,  "label": "" },
+   "etext5":             { "enabled": false,  "label": "ВЫВХОДИ ИЗ СОФТА ЩАС СЕРВЕР ПУКНЕТ И УДАРНАЯ ВОЛНА РАЗНЕСЕТ МОЮ ЖОПУ" },
    "AliveCheck":         { "enabled": true,  "label": "Alive Check" },
    "Ammo":               { "enabled": true,  "label": "Unlimited Ammo" },
    "BulletNuke":         { "enabled": false, "label": "Bullet Nuke" },
