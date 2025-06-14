@@ -1,19 +1,16 @@
 {
  "versions": [
    {
-    "version": "3",
-    "open": false,
-    "reason": "приветики",
-    "name": "KazakhDLC 2.2",
+    "version": "2-fix",
+    "open": true,
+    "reason": "",
+    "name": "KazakhDLC 2.2 (2-f)",
     "desc": "StandKnife 2.8F3 | t.me/ekittened",
     "wm_title": "KazakhDLC 2.2 | ",
     "wm_desc": "ekittened.t.me | ",
     "wm_time": true,
     "wm_on": true,
-    "abort": false,
-    "menu_on": true,
-    "cfg_on": true,
-    "cfg_patch": "/storage/emulated/0/Android/data/antmobi.parallelspace.dualspace.clonewhatsapp.appcloner/cache/"
+    "abort": false
    },
    {
     "version": "2",
@@ -29,7 +26,7 @@
    }
   ],
   "functions": {
-   "3": {
+   "2-fix": {
    "slaim_header":       { "enabled": true,  "label": "Silent Aimbot" },
    "rgaim_header":       { "enabled": true,  "label": "Regular Aimbot" },
    "players_header":     { "enabled": true,  "label": "Players" },
@@ -37,7 +34,7 @@
    "weaponry_header":    { "enabled": true,  "label": "Weaponry" },
    "hitboxes_header":    { "enabled": true,  "label": "Hitboxes" },
    "teleportation_header":{ "enabled": true,  "label": "Teleportation" },
-   "grenades_header":    { "enabled": true,  "label": "Grenades" },
+   "grenades_header":    { "enabled": false,  "label": "Grenades" },
    "bomb_header":        { "enabled": true,  "label": "Bomb" },
    "esp_header":         { "enabled": true,  "label": "New ESP" },
    "crosshair_header":   { "enabled": true,  "label": "Custom Crosshair" },
@@ -52,7 +49,7 @@
    "Ammo":               { "enabled": true,  "label": "Unlimited Ammo" },
    "BulletNuke":         { "enabled": false, "label": "Bullet Nuke" },
    "FastGame":           { "enabled": true,  "label": "Fast Game [Host]" },
-   "Nuke":               { "enabled": true,  "label": "Nuke Toggle" },
+   "Nuke":               { "enabled": false,  "label": "Nuke Toggle" },
    "NukeEnemy":          { "enabled": true,  "label": "Enemy Nuke" },
    "NukeMe":             { "enabled": true,  "label": "Self Nuke" },
    "RCS":                { "enabled": true,  "label": "Zero Recoil" },
@@ -69,7 +66,7 @@
    "defaim":             { "enabled": true,  "label": "Default Aimbot" },
    "deffov":             { "enabled": true,  "label": "Draw RA FOV" },
    "defuse_anywhere":    { "enabled": true,  "label": "Defuse Anywhere" },
-   "dmghack":            { "enabled": true,  "label": "Damager" },
+   "dmghack":            { "enabled": true,  "label": "High damage" },
    "dontret":            { "enabled": true,  "label": "Anti-Return" },
    "drawfov":            { "enabled": true,  "label": "Show Silent Aimbot FOV" },
    "enableRandomizeAim": { "enabled": true,  "label": "Randomizer" },
@@ -89,7 +86,7 @@
    "espskeleton2":       { "enabled": true,  "label": "Show Player Skeleton" },
    "esptracer":          { "enabled": true,  "label": "Show Player Tracers" },
    "fast_defuse":        { "enabled": true,  "label": "Fast Defuse" },
-   "firerate":           { "enabled": true,  "label": "Speedy Fire" },
+   "firerate":           { "enabled": false,  "label": "Speedy Fire" },
    "fovFeature":         { "enabled": true,  "label": "Enable Custom FOV" },
    "getbomb":            { "enabled": true,  "label": "Bomber" },
    "getbomb2":           { "enabled": true,  "label": "Sapper" },
@@ -98,7 +95,7 @@
    "hitlogs":            { "enabled": true,  "label": "Hit Logger" },
    "host":               { "enabled": true,  "label": "Get Host" },
    "insky":              { "enabled": true,  "label": "Teleport Above the Map" },
-   "inv":                { "enabled": true,  "label": "Invisibility" },
+   "inv":                { "enabled": false,  "label": "Invisibility" },
    "masskill":           { "enabled": true,  "label": "MassKill" },
    "mescales":           { "enabled": true,  "label": "Modify Own Size" },
    "moveb":              { "enabled": true,  "label": "Disable Movement Limits" },
