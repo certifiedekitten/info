@@ -49,7 +49,7 @@
    "text1":              { "enabled": false,  "label": "" },
    "text2":              { "enabled": false,  "label": "" },
    "text3":              { "enabled": false,  "label": "" },
-   "etext1":             { "enabled": false,  "label": "" },
+   "etext1":             { "enabled": true,   "label": "НОВОСТИ В ЧАТЕ @KAZAKHDLCNEW В ТЕЛЕГРАМЕ" },
    "etext2":             { "enabled": false,  "label": "" },
    "etext3":             { "enabled": false,  "label": "" },
    "etext4":             { "enabled": false,  "label": "" },
