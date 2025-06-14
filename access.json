@@ -15,15 +15,16 @@
    },
    {
     "version": "2",
-    "open": false,
-    "reason": "Адаптируем софт под Parallel Space",
+    "open": true,
+    "reason": "",
     "name": "KazakhDLC 2.2 (2)",
     "desc": "StandKnife 2.8F3 | ekittened.t.me",
     "wm_title": "KazakhDLC 2.2 | ",
     "wm_desc": "ekittened.t.me | ",
     "wm_time": true,
     "wm_on": true,
-    "abort": false
+    "abort": false,
+    "parallel_space": true
    }
   ],
   "functions": {
