@@ -2,7 +2,7 @@
  "versions": [
    {
     "version": "2-fix",
-    "open": true,
+    "open": false,
     "reason": "",
     "name": "KazakhDLC 2.2 (2-f)",
     "desc": "StandKnife 2.8F3 | t.me/ekittened",
@@ -51,8 +51,8 @@
    "text1":              { "enabled": false,  "label": "" },
    "text2":              { "enabled": false,  "label": "" },
    "text3":              { "enabled": false,  "label": "" },
-   "etext1":             { "enabled": true,   "label": "НОВОСТИ В ЧАТЕ @KAZAKHDLCNEW В ТЕЛЕГРАМЕ" },
-   "etext2":             { "enabled": false,  "label": "" },
+   "etext1":             { "enabled": true,   "label": "СОФТ ЗАКРЫТ НА 20-30 МИН ИНАЧЕ СЕРВЕР ВЗОРВЕТСЯ НАХУЙ" },
+   "etext2":             { "enabled": false,  "label": "а пока что го общение в нашем чате @kazakhdlcnew" },
    "etext3":             { "enabled": false,  "label": "" },
    "etext4":             { "enabled": false,  "label": "" },
    "etext5":             { "enabled": false,  "label": "" },
