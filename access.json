@@ -46,7 +46,7 @@
    "skinchanger":        { "enabled": true,  "label": "SkinChanger" },
    "knifechanger":       { "enabled": true,  "label": "KnifeChanger" },
    "weaponchanger":      { "enabled": true,  "label": "WeaponChanger" },
-   "text1":              { "enabled": true,  "label": "test" },
+   "text1":              { "enabled": false,  "label": "" },
    "text2":              { "enabled": false,  "label": "" },
    "text3":              { "enabled": false,  "label": "" },
    "etext1":             { "enabled": false,  "label": "" },
