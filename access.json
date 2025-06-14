@@ -10,7 +10,7 @@
     "wm_desc": "ekittened.t.me | ",
     "wm_time": true,
     "wm_on": true,
-    "abort": false
+    "abort": true
    },
    {
     "version": "null",
