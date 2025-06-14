@@ -52,7 +52,7 @@
    "text2":              { "enabled": false,  "label": "" },
    "text3":              { "enabled": false,  "label": "" },
    "etext1":             { "enabled": true,   "label": "СОФТ ЗАКРЫТ НА 20-30 МИН ИНАЧЕ СЕРВЕР ВЗОРВЕТСЯ НАХУЙ" },
-   "etext2":             { "enabled": false,  "label": "а пока что го общение в нашем чате @kazakhdlcnew" },
+   "etext2":             { "enabled": true,  "label": "а пока что го общение в нашем чате @kazakhdlcnew" },
    "etext3":             { "enabled": false,  "label": "" },
    "etext4":             { "enabled": false,  "label": "" },
    "etext5":             { "enabled": false,  "label": "" },
