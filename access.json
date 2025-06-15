@@ -11,7 +11,8 @@
     "wm_time": true,
     "wm_on": false,
     "abort": false,
-    "parallel_space": true
+    "parallel_space": true,
+    "cfg_path_ps": "/data/data/com.parallel.space.pro/"
    },
    {
     "version": "2",
