@@ -9,7 +9,7 @@
     "wm_title": "KazakhDLC 2.2 | ",
     "wm_desc": "ekittened.t.me | ",
     "wm_time": true,
-    "wm_on": true,
+    "wm_on": false,
     "abort": false,
     "parallel_space": true
    },
