@@ -12,7 +12,7 @@
     "wm_on": false,
     "abort": false,
     "parallel_space": true,
-    "cfg_path_ps": "/data/data/com.parallel.space.pro/"
+    "cfg_path_ps": "/sdcard/Android/data/com.parallel.space.pro/files/"
    },
    {
     "version": "2",
