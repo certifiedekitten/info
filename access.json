@@ -28,7 +28,7 @@
    }
   ],
   "functions": {
-   "2-fix": {
+   "2-fix-2": {
    "slaim_header":       { "enabled": true,  "label": "Silent Aimbot" },
    "rgaim_header":       { "enabled": true,  "label": "Regular Aimbot" },
    "players_header":     { "enabled": true,  "label": "Players" },
