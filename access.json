@@ -16,7 +16,7 @@
    {
     "version": "2",
     "open": false,
-    "reason": "Вышла стабильная версия 2-fix без вылетов, скачай ее",
+    "reason": "Вышла стабильная версия 2-fix без вылетов, скачай ее в тг @ekittened",
     "name": "KazakhDLC 2.2 (2)",
     "desc": "StandKnife 2.8F3 | ekittened.t.me",
     "wm_title": "KazakhDLC 2.2 | ",
@@ -24,7 +24,7 @@
     "wm_time": true,
     "wm_on": true,
     "abort": false,
-    "parallel_space": true
+    "parallel_space": false
    }
   ],
   "functions": {
