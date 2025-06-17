@@ -2,9 +2,24 @@
  "versions": [
    {
     "dlc": "kazakhdlc",
+    "version": "2-fix-3",
+    "open": true,
+    "reason": "",
+    "name": "KazakhDLC 2.2 (2-f)",
+    "desc": "StandKnife 2.8F3 | t.me/ekittened",
+    "wm_title": "KazakhDLC 2.2 | ",
+    "wm_desc": "ekittened.t.me | ",
+    "wm_time": true,
+    "wm_on": false,
+    "abort": false,
+    "parallel_space": false,
+    "cfg_path_ps": "/sdcard/"
+   },
+   {
+    "dlc": "kazakhdlc",
     "version": "2-fix-2",
     "open": false,
-    "reason": "",
+    "reason": "Версия недоступна",
     "name": "KazakhDLC 2.2 (2-f)",
     "desc": "StandKnife 2.8F3 | t.me/ekittened",
     "wm_title": "KazakhDLC 2.2 | ",
