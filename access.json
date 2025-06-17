@@ -10,7 +10,7 @@
     "wm_title": "KazakhDLC 2.2 | ",
     "wm_desc": "ekittened.t.me | ",
     "wm_time": true,
-    "wm_on": false,
+    "wm_on": true,
     "abort": false,
     "parallel_space": false,
     "cfg_path_ps": "/sdcard/"
