@@ -102,9 +102,9 @@
    "etext5":               { "enabled": false, "label": "" },
    "etext6":               { "enabled": true,  "label": "В данный момент доступны только визуальные функции, братан. Вернем все в след обнове" },
    "rtext1":               { "enabled": false, "label": "" },
-   "etext2":               { "enabled": false, "label": "" },
-   "etext3":               { "enabled": false, "label": "" },
-   "etext4":               { "enabled": true,  "label": "В данный момент доступны только визуальные функции, братан. Вернем все в след обнове" }
+   "rtext2":               { "enabled": false, "label": "" },
+   "rtext3":               { "enabled": false, "label": "" },
+   "rtext4":               { "enabled": true,  "label": "В данный момент доступны только визуальные функции, братан. Вернем все в след обнове" }
    },
    "2-fix-3": {
    "slaim_header":       { "enabled": true,  "label": "Silent Aimbot" },
