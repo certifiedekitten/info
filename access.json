@@ -60,7 +60,7 @@
    }
   ],
   "functions": {
-   "1.0-v1-kyrgyzdlc": {
+   "2-fix-3": {
    "slaim_header":       { "enabled": true,  "label": "Silent Aimbot" },
    "rgaim_header":       { "enabled": true,  "label": "Regular Aimbot" },
    "players_header":     { "enabled": true,  "label": "Players" },
