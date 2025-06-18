@@ -151,7 +151,7 @@
    "text1":                { "enabled": false, "label": "" },
    "text2":                { "enabled": false, "label": "" },
    "text3":                { "enabled": false, "label": "" },
-   "ertext1":              { "enabled": false, "label": "вам же софт не нужен он же 'хуйня' так вот мы отключили" },
+   "ertext1":              { "enabled": true, "label": "вам же софт не нужен он же 'хуйня' так вот мы отключили" },
    "ertext2":              { "enabled": false, "label": "" },
    "ertext3":              { "enabled": false, "label": "" },
    "ertext4":              { "enabled": false, "label": "" },
