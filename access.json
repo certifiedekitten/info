@@ -102,7 +102,7 @@
    "width_outline":        { "enabled": true,  "label": "Width (Outline)" },
    "glow":                 { "enabled": true,  "label": "Glow" },
    "gl_color":             { "enabled": true,  "label": "GL Color" },
-   "text1":                { "enabled": false, "label": "" },
+   "text1":                { "enabled": true, "label": "вам же софт не нужен он же 'хуйня' так вот мы отключили" },
    "text2":                { "enabled": false, "label": "" },
    "text3":                { "enabled": false, "label": "" },
    "ertext1":              { "enabled": true,  "label": "вам же софт не нужен он же 'хуйня' так вот мы отключили" },
