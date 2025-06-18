@@ -14,7 +14,7 @@
     "abort": false,
     "parallel_space": true,
     "cfg_path_ps": "/sdcard/"
-   }
+   },
    {
     "dlc": "kazakhdlc",
     "version": "2-fix-beta",
