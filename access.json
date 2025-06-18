@@ -18,15 +18,15 @@
    {
     "dlc": "kazakhdlc",
     "version": "2-fix-beta",
-    "open": true,
-    "reason": "",
+    "open": false,
+    "reason": "ахуели бету сливать",
     "name": "Putin Sosal DLC 228 Ultra Pro Max BETA Version+",
     "desc": "BETA VERSION SOSALA 52",
     "wm_title": "KazakhDLC 2.2 | ",
     "wm_desc": "ekittened.t.me | ",
     "wm_time": true,
     "wm_on": true,
-    "abort": false,
+    "abort": true,
     "parallel_space": true,
     "cfg_path_ps": "/sdcard/"
    },
