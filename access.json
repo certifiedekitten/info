@@ -135,7 +135,6 @@
    "rtext3":               { "enabled": false, "label": "" },
    "rtext4":               { "enabled": true,  "label": "В данный момент доступны только визуальные функции." }
    },
-  "functions": {
    "2-fix-beta": {
    "camera_header":        { "enabled": true,  "label": "Camera" },
    "fovFeature":           { "enabled": true,  "label": "Enable Custom FOV" },
