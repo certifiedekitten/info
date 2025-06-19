@@ -1,7 +1,6 @@
 {
  "versions": [
    {
-    "dlc": "kyrgyzdlc",
     "version": "kyr-1.0-v1-beta",
     "open": true,
     "reason": "",
@@ -9,13 +8,13 @@
     "desc": "StandKnife 2.9F1 | t.me/kyrgyzdlc",
     "wm_title": "KyrgyzDLC | ",
     "wm_desc": "kyrgyzdlc.t.me | ",
-    "wm_time": true
+    "wm_time": true,
     "wm_on": true,
     "abort": false,
     "parallel_space": true,
     "cfg_path_ps": "/sdcard/"
-    },
-    {
+  },
+  {
     "dlc": "kazakhdlc",
     "version": "2-fix-beta",
     "open": true,
