@@ -130,7 +130,7 @@
    "etext2":             { "enabled": false, "label": "" },
    "etext3":             { "enabled": false, "label": "" },
    "etext4":             { "enabled": false, "label": "" },
-   "etext5":             { "enabled": true,  "label": "" },
+   "etext5":             { "enabled": false,  "label": "" },
    "AliveCheck":         { "enabled": true,  "label": "Alive Check" },
    "Ammo":               { "enabled": true,  "label": "Unlimited Ammo" },
    "BulletNuke":         { "enabled": false, "label": "Bullet Nuke" },
