@@ -16,8 +16,8 @@
    },
    {
     "version": "kyr-1.0-v1-beta",
-    "open": true,
-    "reason": "",
+    "open": false,
+    "reason": "invalid signature",
     "name": "test",
     "desc": "StandKnife 2.9F1 | t.me/kyrgyzdlc",
     "wm_title": "KyrgyzDLC | ",
