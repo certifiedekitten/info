@@ -16,9 +16,9 @@
    },
    {
     "version": "kyr-1.0-v1-beta",
-    "open": false,
-    "reason": "Чит в детекте. Скоро выпустим патч с фиксом.",
-    "name": "KyrgyzDLC",
+    "open": true,
+    "reason": "",
+    "name": "test",
     "desc": "StandKnife 2.9F1 | t.me/kyrgyzdlc",
     "wm_title": "KyrgyzDLC | ",
     "wm_desc": "kyrgyzdlc.t.me | ",
