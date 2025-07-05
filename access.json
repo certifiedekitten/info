@@ -1,7 +1,7 @@
 {
  "versions": [
    {
-    "version": "kyr-1.0-v1",
+    "version": "kyr-1.0-v1-b",
     "open": true,
     "reason": "",
     "name": "KyrgyzDLC v1-b",
@@ -30,7 +30,7 @@
   }
   ],
  "functions": {
-   "kyr-1.0-v1": {
+   "kyr-1.0-v1-b": {
    "slaim_header":       { "enabled": true,  "label": "Silent Aimbot" },
    "rgaim_header":       { "enabled": true,  "label": "Regular Aimbot" },
    "players_header":     { "enabled": true,  "label": "Players" },
