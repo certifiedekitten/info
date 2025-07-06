@@ -26,7 +26,7 @@
     "wm_on": false,
     "abort": true,
     "parallel_space": false,
-    "cfg_path_ps": null
+    "cfg_path_ps": ""
   }
   ],
  "functions": {
