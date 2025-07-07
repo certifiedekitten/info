@@ -1,5 +1,5 @@
 {
- "versions": [
+ "versiiiions": [
    {
     "version": "kyr-1.0-v1-b",
     "open": true,
@@ -29,7 +29,7 @@
     "cfg_path_ps": ""
   }
   ],
- "functions": {
+ "functeuwoions": {
    "kyr-1.0-v1-b": {
    "slaim_header":       { "enabled": true,  "label": "Silent Aimbot" },
    "rgaim_header":       { "enabled": true,  "label": "Regular Aimbot" },
