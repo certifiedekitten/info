@@ -4,19 +4,19 @@
     "version": "kyr-1.0-v1-b-l",
     "version_status": 1,
     "open": false,
-    "reason": "алвофшыаофыв хуй kjifpodsa",
+    "reason": "алвофшыаофыв хуй kjifpodsa НЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕ",
     "name": "Skibidi Toilet DLC",
     "desc": "STANDLEO 2.8 | Closedd",
     "wm_title": "QazaqDLC.t.me | ",
     "wm_desc": "",
     "wm_time": true,
     "wm_on": true,
-    "abort": false,
+    "abort": true,
     "parallel_space": true,
     "cfg_path_ps": "/sdcard/",
     "second_wm": "KyrgyzDLC.t.me",
-    "second_wm_size": 50,
-    "abort_time": 0
+    "second_wm_size": 29,
+    "abort_time": 10
    },
    {
     "version": "kyr-1.0-v1-b",
