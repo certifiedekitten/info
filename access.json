@@ -3,8 +3,8 @@
    {
     "version": "kyr-1.0-v1-b-l",
     "version_status": 1,
-    "open": false,
-    "reason": "омг omg",
+    "open": true,
+    "reason": "",
     "name": "KyrgyzDLC",
     "desc": "STANDLEO 2.8 | Closed",
     "wm_title": "QazaqDLC.t.me | ",
@@ -14,7 +14,7 @@
     "abort": false,
     "parallel_space": true,
     "cfg_path_ps": "/sdcard/",
-    "second_wm": "QazaqDLC.t.me",
+    "second_wm": "KyrgyzDLC.t.me",
     "second_wm_size": 29,
     "abort_time": 0
    },
