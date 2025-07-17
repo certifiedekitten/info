@@ -1,6 +1,24 @@
 {
  "vesions": [
    {
+    "version": "kyr-1.0-v1-b-l",
+    "version_status": 1,
+    "open": true,
+    "reason": "",
+    "name": "QazaqDLC",
+    "desc": "T1 DLC | QazaqDLC.t.me",
+    "wm_title": "QazaqDLC.t.me | ",
+    "wm_desc": "",
+    "wm_time": true,
+    "wm_on": true,
+    "abort": false,
+    "parallel_space": true,
+    "cfg_path_ps": "/sdcard/",
+    "second_wm": "QazaqDLC.t.me",
+    "second_wm_size": 29,
+    "abort_time": 0
+   },
+   {
     "version": "kyr-1.0-v1-b",
     "open": true,
     "reason": "",
