@@ -11,7 +11,7 @@
     "wm_desc": "",
     "wm_time": false,
     "wm_on": false,
-    "abort": false,
+    "abort": true,
     "parallel_space": false,
     "cfg_path_ps": "",
     "second_wm": "KyrgyzDLC.t.me",
