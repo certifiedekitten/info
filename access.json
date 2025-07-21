@@ -21,20 +21,20 @@
    {
     "version": "kyr-1.0-v1-b-l",
     "version_status": 1,
-    "open": true,
-    "reason": "",
+    "open": false,
+    "reason": "Доступна новая версия! kazakhdlc.store/standleo2",
     "name": "KyrgyzDLC",
     "desc": "STANDLEO 2.8 | KygryzDLC.t.me",
     "wm_title": "QazaqDLC.t.me | ",
     "wm_desc": "",
     "wm_time": false,
     "wm_on": false,
-    "abort": false,
+    "abort": true,
     "parallel_space": false,
     "cfg_path_ps": "",
     "second_wm": "KyrgyzDLC.t.me",
     "second_wm_size": 29,
-    "abort_time": 1
+    "abort_time": 8
    },
    {
     "version": "kyr-1.0-v1-b",
