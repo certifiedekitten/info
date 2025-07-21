@@ -1,5 +1,23 @@
 {
  "versions": [
+    {
+    "version": "kyr-1.0-v1-b-s-l",
+    "version_status": 1,
+    "open": true,
+    "reason": "",
+    "name": "KyrgyzDLC",
+    "desc": "STANDLEO LITE | KygryzDLC.t.me",
+    "wm_title": "QazaqDLC.t.me | ",
+    "wm_desc": "",
+    "wm_time": false,
+    "wm_on": false,
+    "abort": false,
+    "parallel_space": false,
+    "cfg_path_ps": "",
+    "second_wm": "KyrgyzDLC.t.me",
+    "second_wm_size": 29,
+    "abort_time": 1
+   },
    {
     "version": "kyr-1.0-v1-b-s",
     "version_status": 1,
