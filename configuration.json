@@ -22,7 +22,7 @@
  "functions": {
    "1.0": {
    "testText":       { "enabled": true,  "label": "123 test" },
-   "textCheckbox":   { "enabled": true,  "label": "123 text checkbox" }
+   "testCheckbox":   { "enabled": true,  "label": "123 text checkbox" }
    }
 }
 }
