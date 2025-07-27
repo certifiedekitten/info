@@ -5,8 +5,8 @@
     "version_status": 1,
     "isOpen": true,
     "reason": "",
-    "cheatTitle": "KazakhDLC",
-    "cheatDesc": "0123456789",
+    "cheatTitle": "QazaqDLC | KazakhDLC 2.5",
+    "cheatDesc": "QazaqDLC.t.me | ekittened.t.me",
     "wm_title": "KazakhDLC",
     "wm_desc": "",
     "wm_time": false,
@@ -14,14 +14,14 @@
     "abort": false,
     "parallel_space": false,
     "cfg_path_ps": "",
-    "second_wm": "KyrgyzDLC.t.me",
+    "second_wm": "KazakhDLC.t.me",
     "second_wm_size": 29,
     "abort_time": 1
    }
   ],
  "functions": {
    "1.0": {
-   "slaim_header":       { "enabled": true,  "label": "Silent Aimbot" }
+   "testText":       { "enabled": true,  "label": "123 test" }
    }
 }
 }
